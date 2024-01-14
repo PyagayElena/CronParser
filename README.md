@@ -1,4 +1,4 @@
-# Cron Expression Parser.
+# Cron Expression Parser
 
 ## Description
 This application parses a cron string and expands each field to show the times at which it will run.
@@ -30,4 +30,6 @@ To run this application install python:
 ## Run tests
 To run unit tests run:
 
+```
 % python3 -m unittest tests/helpers_test.py
+```
